@@ -10,12 +10,20 @@
 - Розробити тареалізувати інтерфейс для "фабрикуючого" методу.
 ### Скріншоти виконаної роботи 
 ![image](https://user-images.githubusercontent.com/91936629/160280202-e99fafb7-49dd-451e-be84-1753d68c68f0.png)
+
 ![image](https://user-images.githubusercontent.com/91936629/160280207-758473dc-9e8a-4048-917b-45339c6dbc77.png)
+
 ![image](https://user-images.githubusercontent.com/91936629/160280212-20125707-519a-437b-a98c-4c7b1f2e52e1.png)
 
 Документація прикріплена в описі про проект. 
 
+![image](https://user-images.githubusercontent.com/91936629/160280276-3ef9b4c9-e14b-43a0-9c7d-e0b3163145db.png)
+ 
+
 ![image](https://user-images.githubusercontent.com/91936629/160280227-bb33f1b6-5c75-462d-811e-c916c5e3f29f.png)
+
 ![image](https://user-images.githubusercontent.com/91936629/160280240-875b329e-4242-4db5-a788-089e840d2edd.png)
+
 ![image](https://user-images.githubusercontent.com/91936629/160280253-621896bd-1761-49d6-bdd6-1d5e2e110a4c.png)
+
 ![image](https://user-images.githubusercontent.com/91936629/160280265-16bf058a-27e6-475c-8e67-2466500cce42.png)
